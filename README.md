@@ -47,7 +47,7 @@ To set up the project locally, follow these steps:
    pip install -r requierements.txt
 ## Usage
 1. Set up environment variables:
-     - **Create a .env file in the backend directory with the following variables:
+     - **Create a .env file in the backend directory with the following variables:**
        WOLFRAM_ALPHA_APP_ID=your_wolfram_alpha_app_id
        FIREBASE_API_KEY=your_firebase_api_key
        FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
